@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\bin\Debug\ödev menü.exe.config
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\bin\Debug\ödev menü.exe
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\bin\Debug\ödev menü.pdb
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev menü.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev menü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev_menü.Form1.resources
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev_menü.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev menü.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev menü.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev menü.exe
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev menü.pdb
+C:\Users\Lenovo\Desktop\görsel2\ödev menü\ödev menü\obj\Debug\ödev_menü.Form2.resources
